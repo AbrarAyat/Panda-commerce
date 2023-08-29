@@ -58,3 +58,22 @@
     transform: scale(1.02);
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
 }
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: gray;
+}
+.btn-buy-now2{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+footer{
+    text-align: center;
+}
